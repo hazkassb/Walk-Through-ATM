@@ -1,5 +1,4 @@
 package walkThroughATM;
-//https://www.youtube.com/watch?v=k0BofouWX-o --> 1:55`00
 import java.util.Scanner;
 
 public class ATMApp {
